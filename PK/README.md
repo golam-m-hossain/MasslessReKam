@@ -1,8 +1,9 @@
-# =============================================================================================
+# ===================================
 To execute the script, run the following command in your terminal "python3 MasslessReKam.py".
 Also download the required data to run the code (read below).
-Compatibility Note: If the 'trapezoid' function causes an error in your environment, replace it with 'trapz'.
-# =============================================================================================
+Compatibility Note: If the 'trapezoid' function causes an error in your environment, 
+please replace it with 'trapz'.
+# ===================================
 
 
 
