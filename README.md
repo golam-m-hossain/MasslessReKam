@@ -1,4 +1,4 @@
-This software package is used for performing re-analysis of the KamLAND dataset as described in the paper [arXiv:2609.39638](https://arxiv.org/abs/2609.39638)
+This software package is developed by *Golam Mortuza Hossain* and *Pushpit Kumar*. It is used for performing re-analysis of the KamLAND dataset as described in the paper [arXiv:2609.39638](https://arxiv.org/abs/2609.39638)
 
 Two folders, "GMH" and "PK", contain two different sets of source code, written independently by each author for cross-verification of the results.
 
